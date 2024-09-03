@@ -1,0 +1,19 @@
+/* connect.css */
+
+.connect {
+  display: flex;
+  justify-content: center;
+}
+
+.connect img {
+  margin-right: 20px; /* Adjust as needed for spacing between image and text */
+}
+
+.connect-info {
+  flex-grow: 1; /* Allow the text to grow and take up remaining space */
+}
+
+.head {
+  display: flex;
+  justify-content: center;
+}

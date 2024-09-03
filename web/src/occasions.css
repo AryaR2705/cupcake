@@ -1,0 +1,23 @@
+.image {
+	display: flex;
+	justify-content: center;
+}
+
+/* occasions.css */
+
+.image {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px; /* Adjust as needed */
+}
+
+.image img {
+  margin-right: 10px; /* Adjust as needed */
+}
+
+
+/* occasions.css */
+
+.para {
+  font-family: cursive;
+}

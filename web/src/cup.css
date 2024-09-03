@@ -1,0 +1,10 @@
+.price {
+	display: flex;
+	justify-content: center;
+}
+
+.butt {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}

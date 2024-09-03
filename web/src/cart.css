@@ -1,0 +1,28 @@
+.cart {
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+
+}
+
+.ing {
+	display: flex;
+	justify-content: center;
+
+}
+
+
+/* cart.css */
+
+.continue-shopping-button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.continue-shopping-button:hover {
+  background-color: #45a049;
+}

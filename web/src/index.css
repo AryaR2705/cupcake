@@ -1,0 +1,21 @@
+.t {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.link{
+  display: flex;
+  justify-content: center;
+  margin-top: -50px;
+}
+/* index.css */
+
+.custom-font {
+  font-family: 'Your Custom Font', cursive, sans-serif; /* Replace 'Your Custom Font' with the actual font name */
+  font-size: 16px; /* Adjust the font size as needed */
+  line-height: 1.5; /* Adjust the line height as needed */
+  font-weight: bold; /* Make the text bold */
+  font-style: Serif;/* Make the text italic */
+  /* Add any other font styles you want */
+}

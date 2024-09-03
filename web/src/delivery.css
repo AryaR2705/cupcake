@@ -1,0 +1,27 @@
+.title {
+	display: flex;
+	justify-content: center;
+}
+
+/* delivery.css */
+
+.delivery {
+  display: flex;
+  align-items: center; /* Align items vertically in the center */
+  justify-content: space-between; /* Add space between image and text */
+}
+
+.delivery img {
+  margin-right: 20px; /* Adjust as needed for spacing */
+}
+
+/* index.css */
+
+.bikes {
+  font-family: 'Your Custom Font', 'Comic Sans MS', cursive, sans-serif; /* Replace 'Your Custom Font' with the actual font name */
+  font-size: 16px; /* Adjust the font size as needed */
+  line-height: 1.5; /* Adjust the line height as needed */
+  font-weight: bold; /* Make the text bold */
+  font-style: italic; /* Make the text italic */
+  /* Add any other font styles you want */
+}
